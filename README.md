@@ -4,7 +4,7 @@
 ### 🚀 B.Tech Computer Science Student | Data Science 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;Data+Science+Student;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Science+Student;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
